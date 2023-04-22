@@ -1,6 +1,7 @@
 import React from 'react'
 import { Outlet,Link } from 'react-router-dom'
 
+//Page des sous menus calculs et de leur outlet
 
 function Calculs() {
    
